@@ -1,4 +1,4 @@
-const buttons = document.querySelectorAll('.languages button');
+const buttons = document.querySelectorAll('.language button');
 function setLanguage(lang) {
   document.documentElement.lang = lang;
   document.querySelectorAll('[data-ko][data-en]').forEach(el => { el.innerHTML = el.dataset[lang]; });
