@@ -1,5 +1,5 @@
-# Decision Model Trilogy — Reading Guide
+# Decision Model Experiments — Series Guide
 
-A bilingual guide to three visual decision-model experiments by Giseop Kim. It links the articles, code, experimental records, and demos.
+A Korean and English reading guide to three visual decision-model experiments by Giseop Kim. It links each article and its code and notes the differences in evaluation.
 
-Open `index.html` locally or visit the GitHub Pages site. The conceptual illustrations are not actual inputs.
+Open `index.html` locally or visit the GitHub Pages site.
